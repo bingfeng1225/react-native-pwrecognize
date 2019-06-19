@@ -1,0 +1,23 @@
+{
+  "name": "react-native-pwrecognize",
+  "version": "1.0.0",
+  "description": "Baidu speech recognition component for react-native, currently only supports Android platform, and only supports online recognition",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingfeng1225/react-native-pwrecognize.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "baidu-recognize"
+  ],
+  "author": "peiwen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bingfeng1225/react-native-pwrecognize/issues"
+  },
+  "homepage": "https://github.com/bingfeng1225/react-native-pwrecognize#readme"
+}
